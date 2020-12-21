@@ -1,0 +1,4 @@
+дек. 21, 2020 5:43:24 PM com.company.Main main
+INFO:  12345
+дек. 21, 2020 5:43:24 PM com.company.Main main
+WARNING: Message with warning
